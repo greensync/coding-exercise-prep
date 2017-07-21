@@ -1,12 +1,12 @@
 # Coding Exercise Preparation
 
-Setting up this repo on you computer will ensure your set up for the coding
+Setting up this repo on your computer will ensure your set up for the coding
 exercise.
 
 The approximate steps to get set up are as follows. They may vary slightly
-depending on you tools/operating system:
+depending on your tools/operating system:
 
-```
+```shell
 git clone https://github.com/greensync/coding-exercise-prep.git
 cd coding-exercise-prep
 rbenv install # If you don't already have ruby 2.4.0 installed
@@ -19,10 +19,10 @@ successfully:
 
 ```
 % bundle exec rspec
-2/2: -__,------,   
-2/2: -__|  /\_/\ 
-0/2: -_~|_( - .-)  
-0/2: -_ ""  "" 
+2/2: -__,------,
+2/2: -__|  /\_/\
+0/2: -_~|_( - .-)
+0/2: -_ ""  ""
 
 You've Nyaned for 0 seconds
 
