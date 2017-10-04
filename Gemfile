@@ -8,5 +8,4 @@ group :test do
   gem 'rspec'
   gem 'guard'
   gem 'guard-rspec'
-  gem 'nyan-cat-formatter'
 end
